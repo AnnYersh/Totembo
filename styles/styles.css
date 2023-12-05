@@ -489,11 +489,21 @@ body {
     font-variant: all-small-caps;
 }
 
+
 .footer__box-right-tel {
     display: flex;
     gap: 11px;
     flex-wrap: wrap;
     margin: 15px 0;
+}
+
+
+.footer__box-right-telnumber {
+    color: #FFF;
+    font-family: 'MR';
+    font-size: 18px;
+    font-weight: 400;
+    font-variant: all-small-caps;   
 }
 
 .footer__box-right-media {
